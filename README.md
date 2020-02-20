@@ -107,10 +107,8 @@ Dashboards is a basic way to do that. Dashboard is usually included into
 one? Note that majority of systems below offer visualization only (no
 control).
 
-* https://github.com/Shopify/dashing - Ruby, no longer maintained
-  ![stars](https://img.shields.io/github/stars/Shopify/dashing.svg?style=social)
-  * https://github.com/Smashing/smashing - maintained fork
-    ![stars](https://img.shields.io/github/stars/Smashing/smashing.svg?style=social)
+* https://github.com/Smashing/smashing - maintained fork
+  ![stars](https://img.shields.io/github/stars/Smashing/smashing.svg?style=social)
 * https://github.com/evolvedlight/pydashie - "Port of Dashing to Python" 
   ![stars](https://img.shields.io/github/stars/evolvedlight/pydashie.svg?style=social)
   ![Python Language][python-badge]
