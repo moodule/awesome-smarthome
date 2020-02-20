@@ -1,7 +1,8 @@
 # Awesome SmartHome [![Awesome][awesome-badge]][awesome-link]
 
-Curated list of awesome SmartHome/Home Automation things (focusing on the
-solutions which are open and leaving users in control).
+> :house: Curated list of awesome [SmartHome/Home Automation][wikipedia-link] things.
+
+Focusing on open technologies and solutions leaving users in control.
 
 ## Table of Contents
 
@@ -215,3 +216,4 @@ actual floorplan of your home.
 [perl-badge]: https://img.shields.io/badge/-Perl-red.svg?style=flat&logo=perl&colorA=grey
 [php-badge]: https://img.shields.io/badge/-PHP-purple.svg?style=flat&logo=php&colorA=grey
 [python-badge]: https://img.shields.io/badge/-Py-blue.svg?style=flat&logo=python&colorA=grey
+[wikipedia-link]: https://en.wikipedia.org/wiki/Home_automation
